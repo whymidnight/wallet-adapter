@@ -33,6 +33,6 @@ export * from '@solana/wallet-adapter-strike';
 export * from '@solana/wallet-adapter-tokenary';
 export * from '@solana/wallet-adapter-tokenpocket';
 export * from '@solana/wallet-adapter-torus';
-export * from '@solana/wallet-adapter-triptychlabs';
+// export * from '@solana/wallet-adapter-triptychlabs';
 export * from '@solana/wallet-adapter-trust';
 export * from '@solana/wallet-adapter-keystone';

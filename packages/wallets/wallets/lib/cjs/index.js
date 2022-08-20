@@ -49,7 +49,7 @@ __exportStar(require("@solana/wallet-adapter-strike"), exports);
 __exportStar(require("@solana/wallet-adapter-tokenary"), exports);
 __exportStar(require("@solana/wallet-adapter-tokenpocket"), exports);
 __exportStar(require("@solana/wallet-adapter-torus"), exports);
-__exportStar(require("@solana/wallet-adapter-triptychlabs"), exports);
+// export * from '@solana/wallet-adapter-triptychlabs';
 __exportStar(require("@solana/wallet-adapter-trust"), exports);
 __exportStar(require("@solana/wallet-adapter-keystone"), exports);
 //# sourceMappingURL=index.js.map
